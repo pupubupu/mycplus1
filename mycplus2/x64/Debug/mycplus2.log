@@ -1,0 +1,6 @@
+﻿  a.cpp
+  e.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\ProgramFiles\Microsoft Visual Studio\workspace\mycplus1\x64\Debug\mycplus2.exe 或上一个增量链接没有生成它；正在执行完全链接
+e.obj : error LNK2005: "int a" (?a@@3HA) 已经在 a.obj 中定义
+D:\ProgramFiles\Microsoft Visual Studio\workspace\mycplus1\x64\Debug\mycplus2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
